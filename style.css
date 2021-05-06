@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #e3cdc1;
+}
+
+#divcontainer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rectangle {
+  height: 400px;
+  width: 600px;
+  background-color: #dfdfdf;
+  position: relative;
+}
+
+.btn {
+  margin-top: 30px;
+  margin-left: 150px;
+  font-size: 30px;
+  background-color: #34656d;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+h3 {
+  margin-top: 40px;
+  margin-left: 20px;
+  font-size: 35px;
+}
+
+h4 {
+  margin-left: 500px;
+  margin-top: 10px;
+  font-size: 22px;
+}
